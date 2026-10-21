@@ -1,0 +1,6 @@
+Acne
+Eczema
+Benign_Nevus
+Suspicious_Lesion
+Fungal_Infection
+Vitiligo
